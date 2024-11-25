@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exchange</string>
+    <string name="search_hint">Enter currency code</string>
+    <string name="error_loading">Error loading data</string>
+    <string name="ok">OK</string>
+    <string name="retry">Retry</string>
+</resources>
